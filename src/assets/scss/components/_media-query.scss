@@ -1,0 +1,14 @@
+
+@media screen and (min-width: 768px) {
+  #wrapper {
+	display: none;
+  }
+  #desktop {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	justify-content: center;
+	justify-items: center;
+	text-align: center;
+  }
+}
