@@ -1,6 +1,6 @@
 {
   "name": "tamas-test",
-  "version": "0.1.0",
+  "version": "1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -11,8 +11,10 @@
     "react-dom": "^17.0.2",
     "react-feather": "^2.0.9",
     "react-scripts": "4.0.3",
-    "sass": "^1.42.1",
     "web-vitals": "^1.0.1"
+  },
+  "devDependencies": {
+    "sass": "^1.42.1"
   },
   "scripts": {
     "start": "react-scripts start",
